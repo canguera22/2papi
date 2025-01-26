@@ -1,0 +1,11 @@
+{
+  "name": "2PAPI Coin",
+  "symbol": "2PAPI",
+  "description": "The papi that keeps on giving! Fast as Papi on Pay Day.",
+  "image": "https://example.com/2papi-logo.png",
+  "attributes": [
+    { "trait_type": "Utility", "value": "Fun" },
+    { "trait_type": "Speed", "value": "Fast as Papi" }
+  ],
+  "external_url": "https://2papicoin.com"
+}
